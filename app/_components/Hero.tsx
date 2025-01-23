@@ -1,6 +1,5 @@
 "use client";
 import { Section } from "./Section";
-import { ComponentPropsWithoutRef } from "react";
 import Image from "next/image";
 import hanad from "./images/IMG_4928.JPG";
 import { motion } from "framer-motion";
