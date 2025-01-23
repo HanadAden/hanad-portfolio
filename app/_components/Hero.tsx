@@ -3,28 +3,7 @@ import { Section } from "./Section";
 import { ComponentPropsWithoutRef } from "react";
 import Image from "next/image";
 import hanad from "./images/IMG_4928.JPG";
-import france from "./images/flag_of_france.png";
-import { cn } from "@/lib/utils";
-import { TailwindIcon } from "./icons/TailwindIcon";
-import { ReactIcon } from "./icons/ReactIcon";
-import { TypeScriptIcon } from "./icons/TypeScriptIcon";
-import { NextJSIcon } from "./icons/NextJSIcon";
-import { GraphQLIcon } from "./icons/GraphQLIcon";
 import { motion } from "framer-motion";
-import { SpringIcon } from "@/app/_components/icons/SpringIcon";
-import { NodeIcon } from "@/app/_components/icons/NodeIcon";
-
-const Code = ({ className, ...props }: ComponentPropsWithoutRef<"code">) => {
-    return (
-        <code
-            className={cn(
-                "bg-accent/30 font-mono border hover:bg-accent/50 transition-colors border-accent px-1 gap-1 py-0.5 rounded-sm text-primary",
-                className
-            )}
-            {...props}
-        />
-    );
-};
 
 export default function Hero() {
     return (

@@ -4,7 +4,6 @@ import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { LinkedInIcon } from "@/app/_components/icons/LinkedInIcon";
 import { GithubIcon } from "@/app/_components/icons/GithubIcon";
-import { XIcon } from "@/app/_components/icons/XIcon";
 
 export default function Contact() {
     return (
