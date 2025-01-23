@@ -1,18 +1,18 @@
 # Hanad's Portfolio
 
-Welcome to my portfolio! I am Hanad, a passionate developer with expertise in various technologies and a keen interest in building innovative solutions.
+Bienvenue sur mon portfolio ! Je suis Hanad, un étudiant passionné par la cybersécurité, motivé à apprendre, à explorer et à bâtir un avenir dans ce domaine essentiel.
 
 ## About Me
-I am a software developer with experience in React, Next.js, Tailwind CSS, TypeScript and Java. I enjoy working on challenging projects and continuously improving my skills.
+Actuellement en troisième année d’études en cybersécurité, je me spécialise dans l’analyse des vulnérabilités, la sécurisation des systèmes, et la réponse aux incidents. Curieux et en constante évolution, je suis engagé à développer mes compétences pour contribuer à un monde numérique plus sûr.
 
 ## Skills
-- Java
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
+-Initiation au hacking éthique
+-Analyse des vulnérabilités
+-Concepts de sécurité réseau
+-Apprentissage du développement sécurisé
+-Gestion de la sécurité informatique
 
 ## Contact
-Feel free to reach out to me via hanad.aden00@gmail.com or connect with me on [LinkedIn/GitHub].
+Vous pouvez me joindre à hanad.aden00@gmail.com ou via [LinkedIn/GitHub] pour discuter de projets, collaborations ou opportunités d’apprentissage.
 
-Thank you for visiting my portfolio!# hanad-portfolio
+Merci de visiter mon portfolio !
