@@ -1,7 +1,7 @@
 "use client";
 import { Section } from "./Section";
 import Image from "next/image";
-import hanad from "./images/IMG_4928.JPG";
+import hanad from "./images/profil.jpg";
 import { motion } from "framer-motion";
 
 export default function Hero() {
